@@ -1,0 +1,3 @@
+_site/*.html    -diff -merge
+_site/*.xml    -diff -merge
+
