@@ -1,4 +1,5 @@
 _site/*.html    -diff -merge
-_site/*.xml    -diff -merge
 _site/**/*.html    linguist-generated=true
+_site/*.xml    -diff -merge
+_site/*.xml    linguist-generated=true
 
